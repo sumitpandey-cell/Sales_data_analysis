@@ -5,6 +5,8 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)](https://pandas.pydata.org/)
 [![Tableau](https://img.shields.io/badge/Tableau-Visualization-blue.svg)](https://www.tableau.com/)
 
+This is the Dashboard https://public.tableau.com/shared/7S2HD38G7?:display_count=n&:origin=viz_share_link
+
 ## 📋 Executive Summary
 
 This comprehensive sales data analysis project examines regional sales performance from **2014 onwards**, providing actionable insights into revenue trends, customer behavior, product performance, and budget variance analysis. The project leverages advanced data analytics to identify key performance drivers and strategic opportunities for growth.
